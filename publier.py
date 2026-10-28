@@ -54,6 +54,19 @@ def verifier(mid):
     return None
 
 
+def tete(t):
+    return ''.join(c for c in (t or '').split('\n')[0].lower() if c.isalnum())[:40]
+
+
+def deja_publie(legende):
+    """Post du compte publié depuis moins de 24 h avec la même première ligne de légende (anti-doublon)."""
+    limite = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=24)
+    for m in appel('me/media', {'fields': 'id,caption,permalink,timestamp', 'limit': 15}).get('data', []):
+        if dt.datetime.strptime(m['timestamp'], '%Y-%m-%dT%H:%M:%S%z') >= limite and tete(m.get('caption')) == tete(legende):
+            return m
+    return None
+
+
 def main():
     if not TOKEN:
         raise SystemExit('Secret IG_TOKEN absent : Settings › Secrets and variables › Actions')
@@ -67,6 +80,11 @@ def main():
             continue
         if quand < maintenant - dt.timedelta(hours=6):  # trop tard : laissé au cockpit (« à confirmer »)
             x['statut'], x['erreur'] = 'trop_tard', 'Heure dépassée de plus de 6 h'
+            continue
+        dej = deja_publie(x.get('legende', ''))
+        if dej:
+            x.update({'statut': 'publie', 'ig_media': dej['id'], 'permalink': dej.get('permalink', ''), 'publie_le': maintenant.isoformat(timespec='minutes'), 'erreur': ''})
+            print('Déjà sur Instagram, pas republié :', x.get('titre'), x['permalink'])
             continue
         mid, erreur = publier({'image_url': x['image'], 'caption': x.get('legende', '')[:2200]})
         v = verifier(mid) if mid else None
