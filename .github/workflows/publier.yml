@@ -3,7 +3,7 @@
 name: Publier sur Instagram
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '7,22,37,52 * * * *'  # hors des minutes rondes, où GitHub retarde ou saute le plus de passages
   workflow_dispatch:
 permissions:
   contents: write
