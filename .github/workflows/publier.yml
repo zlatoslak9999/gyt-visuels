@@ -1,0 +1,35 @@
+# Publication Instagram automatique, même PC éteint (cockpit GYT).
+# Toutes les 15 minutes, GitHub lit planning.json et publie ce qui est arrivé à l'heure, puis enregistre le résultat.
+name: Publier sur Instagram
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publier
+  cancel-in-progress: false
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Publier les posts arrivés à l'heure
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python publier.py
+      - name: Enregistrer le résultat
+        run: |
+          if ! git diff --quiet planning.json; then
+            git config user.name "cockpit-gyt"
+            git config user.email "actions@users.noreply.github.com"
+            git add planning.json
+            git commit -m "Publication : planning mis à jour"
+            git pull --rebase
+            git push
+          fi
