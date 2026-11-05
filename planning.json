@@ -113,10 +113,15 @@
    "quand": "2026-11-05T08:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-ouverture-billetterie-rod-stewart-15833-bad749fe46a7.jpg",
    "legende": "🔓 ROD STEWART — LONDON 🇬🇧\n📅 15 May 2027\n📍 The O2\n\n🎟️ Tickets release soon\n💌 Pre-order via DM",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-ouverture-billetterie-rod-stewart-15833-bad749fe46a7-story.jpg",
-   "story_seule": false
+   "story_seule": false,
+   "ig_media": "17916180072513413",
+   "permalink": "https://www.instagram.com/p/DfWgA8Jm9lU/",
+   "publie_le": "2026-11-05T08:30",
+   "erreur": "",
+   "story_ok": true
   }
  ]
 }
