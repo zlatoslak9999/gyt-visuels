@@ -122,6 +122,17 @@
    "publie_le": "2026-11-05T08:30",
    "erreur": "",
    "story_ok": true
+  },
+  {
+   "id": "pub-2026-10-17-teddy-swims-paris-32538",
+   "titre": "Teddy Swims · Paris",
+   "quand": "2026-11-06T12:30",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-10-17-teddy-swims-paris-32538-305311313c7e.jpg",
+   "legende": "🎤 TEDDY SWIMS — PARIS 🇫🇷\n📅 30 mars 2027\n📍 Accor Arena\n\n🎟️ Billets disponibles\n💌 Réservation en DM\n\n#TeddySwims #Paris #AccorArena #ConcertParis",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-10-17-teddy-swims-paris-32538-305311313c7e-story.jpg",
+   "story_seule": false
   }
  ]
 }
