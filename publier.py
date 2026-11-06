@@ -41,6 +41,43 @@ def publier(params):
         time.sleep(3)
     else:
         return None, 'Instagram traite encore l’image'
+    for _essai in range(5):  # 06/11 : « Media ID is not available » = Instagram pas encore prêt → on réessaie
+        r = appel('me/media_publish', {'creation_id': c['id']}, True)
+        if not (r.get('erreur') and 'not available' in r['erreur']):
+            break
+        time.sleep(6)
+    return r.get('id'), r.get('erreur')
+
+
+def carrousel_params(images, legende):
+    """05/11 soir : carrousel = 2 à 10 images. Renvoie (paramètres de chaque page, paramètres du conteneur parent sans 'children').
+    Rien n'est envoyé ici : sert aussi au test à blanc (outils/carrousel_test.py)."""
+    if not 2 <= len(images) <= 10:
+        raise ValueError(f'un carrousel Instagram compte 2 à 10 images, pas {len(images)}')
+    return [{'image_url': u, 'is_carousel_item': 'true'} for u in images], {'media_type': 'CAROUSEL', 'caption': (legende or '')[:2200]}
+
+
+def publier_carrousel(images, legende, a_blanc=False):
+    """Conteneur par page → attente du traitement → conteneur CAROUSEL (children = ids) → publication.
+    a_blanc=True : s'arrête avant media_publish (rien n'est publié ; les conteneurs expirent seuls sous 24 h)."""
+    pages, parent = carrousel_params(images, legende)
+    ids = []
+    for p in pages:
+        c = appel('me/media', dict(p), True)
+        if c.get('erreur'):
+            return None, c['erreur']
+        ids.append(c['id'])
+    for i in ids:
+        for _ in range(20):
+            e = appel(i, {'fields': 'status_code'})
+            if e.get('status_code') == 'FINISHED':
+                break
+            if e.get('status_code') == 'ERROR' or e.get('erreur'):
+                return None, e.get('erreur') or 'Instagram n’a pas pu lire une page du carrousel'
+            time.sleep(3)
+    c = appel('me/media', {**parent, 'children': ','.join(ids)}, True)
+    if c.get('erreur') or a_blanc:
+        return (None, c['erreur']) if c.get('erreur') else ('a_blanc:' + c['id'], None)
     r = appel('me/media_publish', {'creation_id': c['id']}, True)
     return r.get('id'), r.get('erreur')
 
@@ -81,12 +118,22 @@ def main():
         if quand < maintenant - dt.timedelta(hours=6):  # trop tard : laissé au cockpit (« à confirmer »)
             x['statut'], x['erreur'] = 'trop_tard', 'Heure dépassée de plus de 6 h'
             continue
+        if x.get('story_seule'):  # 03/11 : concerts du mois (1080×1920) = story seule, aucun post dans le fil
+            sid, serr = publier({'image_url': x.get('image_story') or x['image'], 'media_type': 'STORIES'})
+            ok = bool(sid and verifier(sid))
+            x.update({'statut': 'publie' if ok else 'erreur', 'ig_media': sid or '', 'story_ok': ok, 'publie_le': maintenant.isoformat(timespec='minutes'),
+                      'erreur': '' if ok else (serr or 'Instagram ne montre pas la story')})
+            print('Story :' if ok else 'Story refusée :', x.get('titre'))
+            continue
         dej = deja_publie(x.get('legende', ''))
         if dej:
             x.update({'statut': 'publie', 'ig_media': dej['id'], 'permalink': dej.get('permalink', ''), 'publie_le': maintenant.isoformat(timespec='minutes'), 'erreur': ''})
             print('Déjà sur Instagram, pas republié :', x.get('titre'), x['permalink'])
             continue
-        mid, erreur = publier({'image_url': x['image'], 'caption': x.get('legende', '')[:2200]})
+        if x.get('carrousel'):  # 05/11 soir : liste des URL des pages (couverture d'abord)
+            mid, erreur = publier_carrousel(x['carrousel'], x.get('legende', ''))
+        else:
+            mid, erreur = publier({'image_url': x['image'], 'caption': x.get('legende', '')[:2200]})
         v = verifier(mid) if mid else None
         horodatage = maintenant.isoformat(timespec='minutes')
         if not v:
