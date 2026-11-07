@@ -205,10 +205,14 @@
    "quand": "2026-11-07T11:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-10-29-complet-sold-out-calvin-harris-85960-dda111baea3f.jpg",
    "legende": "🚫 SOLD OUT · CALVIN HARRIS — BROOKLYN 🇺🇸\n📅 10 April 2027\n📍 Barclays Center\n\n😱 Officially sold out… but our partners still have tickets.\n💌 DM us, we can help\n\n#CalvinHarris #Brooklyn #BarclaysCenter #SoldOut #GrabYourTix",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": false,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-10-29-complet-sold-out-calvin-harris-85960-dda111baea3f-story.jpg",
-   "story_seule": true
+   "story_seule": true,
+   "ig_media": "18418192603081377",
+   "story_ok": true,
+   "publie_le": "2026-11-07T11:30",
+   "erreur": ""
   },
   {
    "id": "pub-2026-10-17-karol-g-paris-45658",
