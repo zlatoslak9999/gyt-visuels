@@ -78,7 +78,19 @@ def publier_carrousel(images, legende, a_blanc=False):
     c = appel('me/media', {**parent, 'children': ','.join(ids)}, True)
     if c.get('erreur') or a_blanc:
         return (None, c['erreur']) if c.get('erreur') else ('a_blanc:' + c['id'], None)
-    r = appel('me/media_publish', {'creation_id': c['id']}, True)
+    # 10/11 : le conteneur CAROUSEL doit lui aussi être FINISHED avant media_publish (sinon « Media ID is not available »)
+    for _ in range(30):
+        e = appel(c['id'], {'fields': 'status_code'})
+        if e.get('status_code') == 'FINISHED':
+            break
+        if e.get('status_code') == 'ERROR' or e.get('erreur'):
+            return None, e.get('erreur') or 'Instagram n’a pas pu assembler le carrousel'
+        time.sleep(3)
+    for _essai in range(6):
+        r = appel('me/media_publish', {'creation_id': c['id']}, True)
+        if not (r.get('erreur') and 'not available' in r['erreur']):
+            break
+        time.sleep(8)
     return r.get('id'), r.get('erreur')
 
 
