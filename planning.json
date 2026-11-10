@@ -314,6 +314,25 @@
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733-20d11b39d0b6-story.jpg",
    "story_seule": false
+  },
+  {
+   "id": "pub-2026-11-09-carrousel-ouvertures-gb",
+   "titre": "Carrousel · On sale this week · UK (EN)",
+   "quand": "2026-11-10T16:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-01.jpg",
+   "legende": "🎟️ ON SALE THIS WEEK IN THE UK\n\nOn Wednesday 11 November, Mariah Carey and Muse open their presales: Mariah plays three castles and an open-air theatre next summer, Muse take on Cardiff, BST Hyde Park and Leeds. General sale follows on Friday 13 November.\n\nOn Thursday 12 November at 8am, Garth Brooks opens his two Belfast shows with no presale.\n\nOn Friday 13 November at 9am, Jamiroquai release three nights at The O2 in July 2027, for the venue's 20th birthday.\n\nAll times are UK local time.\n\n💌 Want priority access? Send us a DM\n\n#OnSale #Presale #ConcertTickets #MariahCarey #Muse",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-4da2c7371b2c-story.jpg",
+   "story_seule": false,
+   "carrousel": [
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-01.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-02.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-03.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-04.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-05.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-ouvertures-gb-34e12652a957-06.jpg"
+   ]
   }
  ]
 }
