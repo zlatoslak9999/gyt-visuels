@@ -657,6 +657,25 @@
    "story_seule": true
   },
   {
+   "id": "pub-2026-11-09-carrousel-buzz",
+   "titre": "Carrousel · Le buzz de la semaine : / U2, Nej' et Pitchfork",
+   "quand": "2026-11-15T21:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-01.jpg",
+   "legende": "📰 LE BUZZ DE LA SEMAINE : U2, NEJ' ET PITCHFORK\n\nU2 ajoute un troisième concert au Stade de France, le dimanche 9 mai 2027, après les 5 et 8 mai. C'est la seule étape française de leur tournée des stades. La vente générale a ouvert le vendredi 6 novembre, avec des billets à partir de 84€.\n\nNej' annule son concert du lundi 23 novembre 2026 à l'Accor Arena, qui avait déjà été reporté une fois. Pour le remboursement, adresse-toi à la billetterie où tu as acheté ta place.\n\nAu Pitchfork Paris (2 au 8 novembre), le concert de Dragonflies à l'Élysée Montmartre a été annulé, et Iceage a été remplacé par son chanteur, Elias Rønnenfelt, en solo.\n\nLe bon réflexe : un festival ne doit pas reposer sur 2 ou 3 noms, car un artiste peut annuler du jour au lendemain. Lis les conditions de vente avant d'acheter ton pass : un changement d'artiste ne donne pas toujours droit à un remboursement.\n\nUne question sur tes billets ? Écris-nous en DM 💌\n\n#U2 #StadeDeFrance #Nej #PitchforkParis #Concert",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-c3ff4c4bf703-story.jpg",
+   "story_seule": false,
+   "carrousel": [
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-01.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-02.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-03.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-04.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-05.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-buzz-f6388ade2b72-06.jpg"
+   ]
+  },
+  {
    "id": "pub-2026-11-11-tiktok-coachella-2027-lineup",
    "titre": "Carrousel · Coachella 2027 : / the lineup is out",
    "quand": "2026-11-15T12:30",
