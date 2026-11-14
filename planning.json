@@ -512,10 +512,14 @@
    "quand": "2026-11-14T10:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-avis-anna-trustpilot-c03c49681dc8.jpg",
    "legende": "⭐⭐⭐⭐⭐ Anna B. nous a confié sa recherche de places, et elle a pris le temps de le raconter sur Trustpilot. Merci pour cette confiance 🙏\n\nVous cherchez des billets ? Écrivez-nous en DM 💌\n\n#AvisClient #Trustpilot #Billetterie #Concert #ConciergerieBilletterie",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-avis-anna-trustpilot-c03c49681dc8-story.jpg",
-   "story_seule": true
+   "story_seule": true,
+   "ig_media": "18155015068545285",
+   "story_ok": true,
+   "publie_le": "2026-11-14T12:35",
+   "erreur": ""
   },
   {
    "id": "pub-2026-11-09-carrousel-u2-tournee-europe",
