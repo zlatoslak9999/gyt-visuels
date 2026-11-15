@@ -750,7 +750,7 @@
    "quand": "2026-11-15T18:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-actus-chiffres-0d99344b93dc-01.jpg",
    "legende": "📊 THE WEEK IN NUMBERS\n\nA huge week for concert tickets: Kings of Leon, Noah Kahan, Garth Brooks, Mariah Carey and Muse all open their 2027 sales between Monday 9 and Friday 13 November.\n\nThirty Kings of Leon shows across North America, four Noah Kahan nights at Fenway Park, ten Garth Brooks nights in Ireland and castles for Mariah Carey.\n\nPresales come first, so set up your Ticketmaster account the day before and check the local time of each sale.\n\nWant tickets for one of these? Send us a DM 💌\n\n#KingsOfLeon #NoahKahan #GarthBrooks #MariahCarey #Muse",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-actus-chiffres-3c3627d0d1d6-story.jpg",
    "story_seule": false,
@@ -761,7 +761,12 @@
     "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-actus-chiffres-0d99344b93dc-04.jpg",
     "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-actus-chiffres-0d99344b93dc-05.jpg",
     "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-actus-chiffres-0d99344b93dc-06.jpg"
-   ]
+   ],
+   "ig_media": "18142922413714159",
+   "permalink": "https://www.instagram.com/p/DfxUpeOFAMo/",
+   "publie_le": "2026-11-15T18:30",
+   "erreur": "",
+   "story_ok": true
   },
   {
    "id": "pub-2026-11-11-ouverture-billetterie-kings-of-leon-3085",
