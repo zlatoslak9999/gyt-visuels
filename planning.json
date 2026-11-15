@@ -774,10 +774,14 @@
    "quand": "2026-11-15T21:00",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-kings-of-leon-3085-63c50c60911c.jpg",
    "legende": "🔓 KINGS OF LEON — BRISTOW 🇺🇸\n📅 8 May 2027\n📍 Jiffy Lube Live\n\n🎟️ Tickets release soon\n💌 Pre-order via DM\n\n#KingsOfLeon #JiffyLubeLive #Bristow #Billetterie #Concert",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": false,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-kings-of-leon-3085-63c50c60911c-story.jpg",
-   "story_seule": true
+   "story_seule": true,
+   "ig_media": "17964412439997627",
+   "story_ok": true,
+   "publie_le": "2026-11-15T21:01",
+   "erreur": ""
   },
   {
    "id": "pub-2026-11-11-ouverture-billetterie-billy-strings-3262",
