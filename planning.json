@@ -766,10 +766,14 @@
    "quand": "2026-11-15T08:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-compte-rebours-sting-58950-c27e4e499a88.jpg",
    "legende": "⏳ 4 DAYS TO GO · STING — NEW YORK 🇺🇸\n📅 19 November 2026\n📍 Florence Gould Theater at L'Alliance New York\n\n🎟️ Last few tickets\n💌 Book via DM\n\n#Sting #NewYork #ConcertNewYork #Concert #Billets",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": false,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-compte-rebours-sting-58950-c27e4e499a88-story.jpg",
-   "story_seule": true
+   "story_seule": true,
+   "ig_media": "18123359587949546",
+   "story_ok": true,
+   "publie_le": "2026-11-15T08:30",
+   "erreur": ""
   }
  ]
 }
