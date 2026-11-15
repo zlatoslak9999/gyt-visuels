@@ -724,6 +724,21 @@
    "story_ok": true
   },
   {
+   "id": "pub-2026-11-11-ouverture-billetterie-kings-of-leon-3085",
+   "titre": "Ouverture billetterie · Kings of Leon",
+   "quand": "2026-11-15T21:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-kings-of-leon-3085-63c50c60911c.jpg",
+   "legende": "🔓 KINGS OF LEON — BRISTOW 🇺🇸\n📅 8 May 2027\n📍 Jiffy Lube Live\n\n🎟️ Tickets release soon\n💌 Pre-order via DM\n\n#KingsOfLeon #JiffyLubeLive #Bristow #Billetterie #Concert",
+   "statut": "publie",
+   "story": false,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-kings-of-leon-3085-63c50c60911c-story.jpg",
+   "story_seule": true,
+   "ig_media": "17964412439997627",
+   "story_ok": true,
+   "publie_le": "2026-11-15T21:01",
+   "erreur": ""
+  },
+  {
    "id": "pub-2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733",
    "titre": "Guide / actu · Arnaque aux billets : les signaux d'alerte",
    "quand": "2026-11-23T19:00",
@@ -767,21 +782,6 @@
     "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-12-carrousel-u2-tournee-europe-ivoire-1dbdca1bf3c9-09.jpg",
     "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-12-carrousel-u2-tournee-europe-ivoire-1dbdca1bf3c9-10.jpg"
    ]
-  },
-  {
-   "id": "pub-2026-11-11-ouverture-billetterie-kings-of-leon-3085",
-   "titre": "Ouverture billetterie · Kings of Leon",
-   "quand": "2026-11-15T21:00",
-   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-kings-of-leon-3085-63c50c60911c.jpg",
-   "legende": "🔓 KINGS OF LEON — BRISTOW 🇺🇸\n📅 8 May 2027\n📍 Jiffy Lube Live\n\n🎟️ Tickets release soon\n💌 Pre-order via DM\n\n#KingsOfLeon #JiffyLubeLive #Bristow #Billetterie #Concert",
-   "statut": "publie",
-   "story": false,
-   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-kings-of-leon-3085-63c50c60911c-story.jpg",
-   "story_seule": true,
-   "ig_media": "17964412439997627",
-   "story_ok": true,
-   "publie_le": "2026-11-15T21:01",
-   "erreur": ""
   },
   {
    "id": "pub-2026-11-11-ouverture-billetterie-billy-strings-3262",
