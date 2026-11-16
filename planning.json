@@ -755,28 +755,6 @@
    "story_ok": true
   },
   {
-   "id": "pub-2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733",
-   "titre": "Guide / actu · Arnaque aux billets : les signaux d'alerte",
-   "quand": "2026-11-23T19:00",
-   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733-20d11b39d0b6.jpg",
-   "legende": "⚠️ ARNAQUE AUX BILLETS : LES SIGNAUX D'ALERTE\n\nUne offre trop belle, un vendeur pressé, un paiement hors plateforme : la plupart des arnaques aux billets de concert se ressemblent.\n\nNotre guide liste les signaux à repérer avant de payer, et les bons réflexes si c'est déjà trop tard.\n\n📖 Le guide complet : grabyourtix.co (lien en bio)\n\n💌 Un doute sur un billet ? Écris-nous en DM avant de payer\n\n#ArnaqueAuxBillets #BilletsConcert #ArnaqueBillets #Concert #Billetterie",
-   "statut": "a_publier",
-   "story": true,
-   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733-20d11b39d0b6-story.jpg",
-   "story_seule": false
-  },
-  {
-   "id": "pub-2026-11-08-sombr-paris-72715",
-   "titre": "sombr · Paris",
-   "quand": "2026-11-20T19:00",
-   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-08-sombr-paris-72715-035ef846dbc3.jpg",
-   "legende": "🎤 SOMBR — PARIS 🇫🇷\n📅 22 mai 2027\n📍 Accor Arena\n\nLa révélation new-yorkaise derrière « Back to Friends » et « Undressed » remplit désormais les grandes salles : rendez-vous à l'Accor Arena. Une ascension fulgurante à vivre en vrai.\n\nLes places partent vite : ne laisse pas filer cette date.\n\n🎟️ Billets disponibles\n💌 Réservation en DM\n\n#sombr #BackToFriends #Paris #AccorArena #ConcertParis",
-   "statut": "a_publier",
-   "story": true,
-   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-08-sombr-paris-72715-035ef846dbc3-story.jpg",
-   "story_seule": false
-  },
-  {
    "id": "pub-2026-11-09-carrousel-tips-preventes",
    "titre": "Carrousel · Préventes : / 5 choses à savoir",
    "quand": "2026-11-16T17:30",
@@ -799,6 +777,28 @@
    "publie_le": "2026-11-16T17:30",
    "erreur": "",
    "story_ok": true
+  },
+  {
+   "id": "pub-2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733",
+   "titre": "Guide / actu · Arnaque aux billets : les signaux d'alerte",
+   "quand": "2026-11-23T19:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733-20d11b39d0b6.jpg",
+   "legende": "⚠️ ARNAQUE AUX BILLETS : LES SIGNAUX D'ALERTE\n\nUne offre trop belle, un vendeur pressé, un paiement hors plateforme : la plupart des arnaques aux billets de concert se ressemblent.\n\nNotre guide liste les signaux à repérer avant de payer, et les bons réflexes si c'est déjà trop tard.\n\n📖 Le guide complet : grabyourtix.co (lien en bio)\n\n💌 Un doute sur un billet ? Écris-nous en DM avant de payer\n\n#ArnaqueAuxBillets #BilletsConcert #ArnaqueBillets #Concert #Billetterie",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-03-guide-actu-arnaque-aux-billets-les-signa-35733-20d11b39d0b6-story.jpg",
+   "story_seule": false
+  },
+  {
+   "id": "pub-2026-11-08-sombr-paris-72715",
+   "titre": "sombr · Paris",
+   "quand": "2026-11-20T19:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-08-sombr-paris-72715-035ef846dbc3.jpg",
+   "legende": "🎤 SOMBR — PARIS 🇫🇷\n📅 22 mai 2027\n📍 Accor Arena\n\nLa révélation new-yorkaise derrière « Back to Friends » et « Undressed » remplit désormais les grandes salles : rendez-vous à l'Accor Arena. Une ascension fulgurante à vivre en vrai.\n\nLes places partent vite : ne laisse pas filer cette date.\n\n🎟️ Billets disponibles\n💌 Réservation en DM\n\n#sombr #BackToFriends #Paris #AccorArena #ConcertParis",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-08-sombr-paris-72715-035ef846dbc3-story.jpg",
+   "story_seule": false
   },
   {
    "id": "pub-2026-11-09-carrousel-u2-tournee-europe",
