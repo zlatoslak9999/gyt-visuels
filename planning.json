@@ -1233,10 +1233,14 @@
    "quand": "2026-11-22T08:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-bon-jovi-3079-14f1c12f297c.jpg",
    "legende": "🔓 BON JOVI — EAST RUTHERFORD 🇺🇸\n📅 15 July 2027\n📍 MetLife Stadium\n\n🎟️ Tickets release soon\n💌 Pre-order via DM\n\n#BonJovi #MetLifeStadium #EastRutherford #Billetterie #Concert",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": false,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-11-ouverture-billetterie-bon-jovi-3079-14f1c12f297c-story.jpg",
-   "story_seule": true
+   "story_seule": true,
+   "ig_media": "17970891669246994",
+   "story_ok": true,
+   "publie_le": "2026-11-22T08:30",
+   "erreur": ""
   },
   {
    "id": "pub-2026-11-09-carrousel-nouveautes-etranger-10",
