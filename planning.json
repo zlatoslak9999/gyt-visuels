@@ -1142,6 +1142,17 @@
    "story_seule": true
   },
   {
+   "id": "pub-2026-11-09-avis-wid-google",
+   "titre": "Avis client · Wid B.",
+   "quand": "2026-12-22T12:30",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-avis-wid-google-69d23acf8637.jpg",
+   "legende": "⭐⭐⭐⭐⭐ Wid B. a trouvé ses places avec nous, et le dit sur Google. Merci pour ce retour 🙏\n\nVous cherchez des billets ? Écrivez-nous en DM 💌\n\n#AvisClient #AvisGoogle #Billetterie #Concert #ConciergerieBilletterie",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-avis-wid-google-69d23acf8637-story.jpg",
+   "story_seule": true
+  },
+  {
    "id": "pub-2026-11-09-avis-jason-google",
    "titre": "Avis client · Jason",
    "quand": "2026-11-30T12:30",
