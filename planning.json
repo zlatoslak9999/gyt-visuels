@@ -1331,10 +1331,14 @@
    "quand": "2026-11-22T12:00",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-ouverture-lil-wayne-398a6226ea5e.jpg",
    "legende": "🎤 LIL WAYNE — LEXINGTON\n📅 December 4, 2026\n📍 Rupp Arena\n\nLil Wayne plays Rupp Arena in Lexington on Friday 4 December 2026.\nThe rapper behind \"Tha Carter III\", \"Lollipop\" and \"A Milli\" is a five-time Grammy winner.\nTickets are already on general sale for his three dates.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#LilWayne #RuppArena #Lexington #ConcertLexington #Concert",
-   "statut": "a_publier",
+   "statut": "publie",
    "story": false,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-ouverture-lil-wayne-398a6226ea5e-story.jpg",
-   "story_seule": true
+   "story_seule": true,
+   "ig_media": "17923090482454897",
+   "story_ok": true,
+   "publie_le": "2026-11-22T12:01",
+   "erreur": ""
   },
   {
    "id": "pub-2026-11-19-fournee-ouverture-def-leppard",
