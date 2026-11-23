@@ -1332,6 +1332,17 @@
    "story_seule": false
   },
   {
+   "id": "pub-2026-11-19-fournee-ouverture-def-leppard",
+   "titre": "Def Leppard · Louisville",
+   "quand": "2026-12-05T13:30",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-ouverture-def-leppard-8c2fbb550538.jpg",
+   "legende": "🎤 DEF LEPPARD — LOUISVILLE\n📅 June 9, 2027\n📍 KFC Yum! Center\n\nDef Leppard bring their stadium-rock classics to the KFC Yum! Center in Louisville on Wednesday 9 June 2027.\n\"Pour Some Sugar on Me\", \"Hysteria\", \"Photograph\": the Sheffield band were inducted into the Rock and Roll Hall of Fame in 2019.\nTickets for the tour are already on general sale.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#DefLeppard #KFCYumCenter #Louisville #ConcertLouisville #Concert",
+   "statut": "a_publier",
+   "story": false,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-ouverture-def-leppard-8c2fbb550538-story.jpg",
+   "story_seule": true
+  },
+  {
    "id": "pub-2026-11-23-fournee-catalogue-n-dubz-london",
    "titre": "Catalogue · N-Dubz · London",
    "quand": "2026-11-24T21:00",
@@ -1363,6 +1374,17 @@
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-20-fournee-catalogue-brent-faiyaz-los-angeles-732500f0b4b3-story.jpg",
    "story_seule": false
+  },
+  {
+   "id": "pub-2026-11-18-ouverture-billetterie-phoebe-bridgers-19555",
+   "titre": "Ouverture billetterie · Phoebe Bridgers",
+   "quand": "2026-12-01T10:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-18-ouverture-billetterie-phoebe-bridgers-19555-8154d129a940.jpg",
+   "legende": "🔓 PHOEBE BRIDGERS — PORTLAND 🇺🇸\n📅 17 February 2027\n📍 Moda Center\n\n🎟️ Tickets release soon\n💌 Pre-order via DM\n\n#PhoebeBridgers #ModaCenter #Portland #Billetterie #Concert",
+   "statut": "a_publier",
+   "story": false,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-18-ouverture-billetterie-phoebe-bridgers-19555-8154d129a940-story.jpg",
+   "story_seule": true
   }
  ]
 }
