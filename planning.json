@@ -1299,13 +1299,32 @@
    ]
   },
   {
+   "id": "pub-2026-11-09-carrousel-nouveautes-etranger-10",
+   "titre": "Carrousel · Just added / new dates",
+   "quand": "2026-11-26T17:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-01.jpg",
+   "legende": "✨ JUST ADDED : 4 NEW SHOWS TO KNOW\n\nMetallica keep growing their Life Burns Faster residency at Sphere in Las Vegas: 24 shows in total, 12 of them in 2027, from 28 January to 13 March. Over 100 million records sold and 45 years on stage.\n\nTame Impala take the Deadbeat Tour in the round: Co-op Live Manchester on 28 May 2027, then two nights at The O2 London on 1 and 2 June, with Wet Leg in support.\n\nMariah Carey, the Queen of Christmas, plays her first UK tour since 2019: Birmingham, The O2 London and Manchester, from 27 November to 2 December.\n\nThe Neighbourhood, whose “Sweater Weather” has passed 5 billion Spotify streams, announce The Wourld Tour II for 2027.\n\nLooking for tickets for a 2027 concert? Send us a DM 💌\n\n#Metallica #TameImpala #MariahCarey #TheNeighbourhood #NewDates",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-56e241ff15c5-story.jpg",
+   "story_seule": false,
+   "carrousel": [
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-01.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-02.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-03.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-04.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-05.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-09-carrousel-nouveautes-etranger-10-1b1b26eacee7-06.jpg"
+   ]
+  },
+  {
    "id": "pub-2026-11-12-vente-jour-karan-aujla-chicago",
    "titre": "Karan Aujla · Chicago",
    "quand": "2026-11-25T17:30",
    "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-12-vente-jour-karan-aujla-chicago-f5cd59dae4b4.jpg",
    "legende": "🎤 KARAN AUJLA — CHICAGO 🇺🇸\n📅 Saturday, February 13, 2027\n📍 United Center, Chicago\n\nKaran Aujla is one of the biggest names in Punjabi music right now : born in Punjab, based in Canada, he is behind streaming hits like « Softly » and « Tauba Tauba », which went viral far beyond the Punjabi scene.\nHis 2023 album « Making Memories », made with producer Ikky, confirmed him as a headliner, and his last tour played arenas across North America, the UK and India.\nChicago gets him at the United Center, one of the largest indoor arenas in the US, home of the Bulls and the Blackhawks.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#KaranAujla #UnitedCenter #Chicago #ConcertChicago #Concert",
    "statut": "a_publier",
-   "story": false,
+   "story": true,
    "image_story": "",
    "story_seule": false
   },
@@ -1354,6 +1373,17 @@
    "story_seule": false
   },
   {
+   "id": "pub-2026-11-23-fournee-catalogue-stevie-wonder-inglewood",
+   "titre": "Catalogue · Stevie Wonder · Inglewood",
+   "quand": "2026-12-02T11:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-stevie-wonder-inglewood-ce161e1b84ab.jpg",
+   "legende": "🎤 STEVIE WONDER — INGLEWOOD 🇺🇸\n📅 Saturday 19 December 2026\n📍 Intuit Dome, Inglewood\n\nStevie Wonder performs Songs in the Key of Life in full to mark the album's 50th anniversary. Intuit Dome is the closing night of the tour, which started in Birmingham, England, in October. A one-off chance to hear the 1976 classic live, from start to finish, in Los Angeles.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#StevieWonder #IntuitDome #Inglewood #ConcertInglewood #Concert",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-stevie-wonder-inglewood-ce161e1b84ab-story.jpg",
+   "story_seule": false
+  },
+  {
    "id": "pub-2026-11-20-fournee-catalogue-andrea-bocelli-philadelphia",
    "titre": "Catalogue · Andrea Bocelli · Philadelphia",
    "quand": "2026-12-01T12:30",
@@ -1365,6 +1395,17 @@
    "story_seule": false
   },
   {
+   "id": "pub-2026-11-23-fournee-ouverture-billie-eilish",
+   "titre": "Ouverture billetterie · Billie Eilish",
+   "quand": "2026-11-25T20:30",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-ouverture-billie-eilish-89772c5ef0cc.jpg",
+   "legende": "🔓 BILLIE EILISH — LONDON 🇬🇧\n📅 Saturday 3 July 2027\n📍 Hyde Park\n\nBillie Eilish headlines BST Hyde Park for the first time on Saturday 3 July 2027, on the Great Oak Stage. Announced on 20 November, it lands in the same summer as her Glastonbury 2027 headline slot. Bon Jovi, Muse and RAYE complete the 2027 headliners: Hyde Park shows like this go fast, so be ready on sale day.\n\n🎟️ General sale Thursday 26 November 2026, 11:00 CET (10am UK time)\n💌 Pre-order via DM\n\n#BillieEilish #HydePark #London #Presale #Concert",
+   "statut": "a_publier",
+   "story": false,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-ouverture-billie-eilish-89772c5ef0cc-story.jpg",
+   "story_seule": true
+  },
+  {
    "id": "pub-2026-11-20-fournee-catalogue-brent-faiyaz-los-angeles",
    "titre": "Catalogue · Brent Faiyaz · Los Angeles",
    "quand": "2026-12-07T10:00",
@@ -1374,6 +1415,17 @@
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-20-fournee-catalogue-brent-faiyaz-los-angeles-f223d3fa5e7a-story.jpg",
    "story_seule": false
+  },
+  {
+   "id": "pub-2026-11-20-fournee-ouverture-manic-street-preachers",
+   "titre": "Ouverture billetterie · Manic Street Preachers",
+   "quand": "2026-11-24T20:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-20-fournee-ouverture-manic-street-preachers-025e2c13cd0d.jpg",
+   "legende": "🔓 MANIC STREET PREACHERS — CARDIFF 🇬🇧\n📅 Saturday 19 June 2027\n📍 Blackweir Fields, Cardiff\n\nManic Street Preachers come home to Wales for an open-air show at Blackweir Fields, Cardiff, on Saturday 19 June 2027.\n\nThe Blackwood band behind A Design for Life and the UK No. 1 If You Tolerate This Your Children Will Be Next play in the heart of Bute Park.\n\nPresale opens Wednesday 25 November 2026 at 11:00 CET: set a reminder.\n\n🎟️ Presale Wednesday 25 November 2026, 11:00 CET\n💌 Pre-order via DM\n\n#ManicStreetPreachers #BlackweirFieldsCardiff #Cardiff #Presale #Concert",
+   "statut": "a_publier",
+   "story": false,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-20-fournee-ouverture-manic-street-preachers-025e2c13cd0d-story.jpg",
+   "story_seule": true
   },
   {
    "id": "pub-2026-11-18-ouverture-billetterie-tame-impala-19441",
@@ -1417,6 +1469,17 @@
    "statut": "a_publier",
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-a-boogie-wit-da-hoodie-london-a08874341775-story.jpg",
+   "story_seule": false
+  },
+  {
+   "id": "pub-2026-11-23-fournee-catalogue-garth-brooks-minneapolis",
+   "titre": "Catalogue · Garth Brooks · Minneapolis",
+   "quand": "2026-12-05T13:30",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-garth-brooks-minneapolis-cd3bceae4960.jpg",
+   "legende": "🎤 GARTH BROOKS — MINNEAPOLIS 🇺🇸\n📅 Saturday 12 December 2026\n📍 Target Center, Minneapolis\n\nGarth Brooks closes his 2026 Blame It All On My Roots arena tour with two nights at Target Center, Friday 11 and Saturday 12 December. Saturday is the very last show of the year, at 8pm local time. Tickets are on sale on AXS.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#GarthBrooks #TargetCenter #Minneapolis #ConcertMinneapolis #Concert",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-garth-brooks-minneapolis-cd3bceae4960-story.jpg",
    "story_seule": false
   },
   {
