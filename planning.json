@@ -1471,6 +1471,17 @@
    "story_seule": false
   },
   {
+   "id": "pub-2026-11-23-fournee-catalogue-stevie-wonder-inglewood",
+   "titre": "Catalogue · Stevie Wonder · Inglewood",
+   "quand": "2026-12-09T18:30",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-stevie-wonder-inglewood-ce161e1b84ab.jpg",
+   "legende": "🎤 STEVIE WONDER — INGLEWOOD 🇺🇸\n📅 Saturday 19 December 2026\n📍 Intuit Dome, Inglewood\n\nStevie Wonder performs Songs in the Key of Life in full to mark the album's 50th anniversary. Intuit Dome is the closing night of the tour, which started in Birmingham, England, in October. A one-off chance to hear the 1976 classic live, from start to finish, in Los Angeles.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#StevieWonder #IntuitDome #Inglewood #ConcertInglewood #Concert",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-stevie-wonder-inglewood-ce161e1b84ab-story.jpg",
+   "story_seule": false
+  },
+  {
    "id": "pub-2026-11-20-fournee-catalogue-brent-faiyaz-los-angeles",
    "titre": "Catalogue · Brent Faiyaz · Los Angeles",
    "quand": "2026-11-28T12:30",
@@ -1502,6 +1513,25 @@
    "story": true,
    "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-23-fournee-catalogue-garth-brooks-minneapolis-cd3bceae4960-story.jpg",
    "story_seule": false
+  },
+  {
+   "id": "pub-2026-11-26-carrousel-pitbull-australia-2027-en",
+   "titre": "Carrousel · Pitbull : / 4 Australian arenas in 2027",
+   "quand": "2026-11-27T15:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-01.jpg",
+   "legende": "🔥 Pitbull is back in Australia: the I'M BACK tour hits four arenas in September 2027.\n\n📅 Perth · Saturday 11 September 2027 · RAC Arena\n📅 Melbourne · Tuesday 14 September 2027 · Rod Laver Arena\n📅 Sydney · Friday 17 September 2027 · Afterpay Arena\n📅 Brisbane · Tuesday 21 September 2027 · Brisbane Entertainment Centre\n\nGeneral sale: Friday 27 November, 10am local time. Looking for seats? Send us a DM.\n\n#RACArena #RodLaverArena #AfterpayArena #Concerts #Concert",
+   "statut": "a_publier",
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-a438f572f741-story.jpg",
+   "story_seule": false,
+   "carrousel": [
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-01.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-02.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-03.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-04.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-05.jpg",
+    "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-26-carrousel-pitbull-australia-2027-en-e1b5828ee6f2-06.jpg"
+   ]
   }
  ]
 }
