@@ -1438,15 +1438,15 @@
    "story_seule": false
   },
   {
-   "id": "pub-2026-11-19-fournee-ouverture-def-leppard",
-   "titre": "Def Leppard · Louisville",
-   "quand": "2026-12-07T10:00",
-   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-ouverture-def-leppard-8c2fbb550538.jpg",
-   "legende": "🎤 DEF LEPPARD — LOUISVILLE\n📅 June 9, 2027\n📍 KFC Yum! Center\n\nDef Leppard bring their stadium-rock classics to the KFC Yum! Center in Louisville on Wednesday 9 June 2027.\n\"Pour Some Sugar on Me\", \"Hysteria\", \"Photograph\": the Sheffield band were inducted into the Rock and Roll Hall of Fame in 2019.\nTickets for the tour are already on general sale.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#DefLeppard #KFCYumCenter #Louisville #ConcertLouisville #Concert",
+   "id": "pub-2026-11-19-fournee-catalogue-chris-brown-tampa",
+   "titre": "Chris Brown · Tampa",
+   "quand": "2026-12-08T19:00",
+   "image": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-catalogue-chris-brown-tampa-a9781f2032c5.jpg",
+   "legende": "🎤 CHRIS BROWN — TAMPA 🇺🇸\n📅 Friday 11 December 2026\n📍 Raymond James Stadium, Tampa\n\nThe R&B Tour brings Usher and Chris Brown together on the same stage, at Raymond James Stadium on Friday 11 December 2026.\nTwo decades of R&B hits in one night: \"Yeah!\", \"OMG\" and \"Burn\" on one side, \"Run It!\", \"Forever\" and \"Under the Influence\" on the other.\nIt's one of the most resold dates of the tour on the secondary market.\n\n🎟️ Tickets available\n💌 Book via DM\n\n#ChrisBrown #RaymondJamesStadium #Tampa #ConcertTampa #Concert",
    "statut": "a_publier",
-   "story": false,
-   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-ouverture-def-leppard-8c2fbb550538-story.jpg",
-   "story_seule": true
+   "story": true,
+   "image_story": "https://raw.githubusercontent.com/zlatoslak9999/gyt-visuels/main/visuels/2026-11-19-fournee-catalogue-chris-brown-tampa-a9781f2032c5-story.jpg",
+   "story_seule": false
   },
   {
    "id": "pub-2026-11-23-fournee-catalogue-n-dubz-london",
